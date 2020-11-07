@@ -1,0 +1,14 @@
+C:\Users\Danie\source\repos\ekool.marks.counter\ekool.marks.counter\bin\Debug\EkoolMarksCalculator.exe.config
+C:\Users\Danie\source\repos\ekool.marks.counter\ekool.marks.counter\bin\Debug\EkoolMarksCalculator.exe
+C:\Users\Danie\source\repos\ekool.marks.counter\ekool.marks.counter\bin\Debug\EkoolMarksCalculator.pdb
+C:\Users\Danie\source\repos\ekool.marks.counter\ekool.marks.counter\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Danie\source\repos\ekool.marks.counter\ekool.marks.counter\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Danie\source\repos\ekool.marks.counter\ekool.marks.counter\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Danie\source\repos\ekool.marks.counter\ekool.marks.counter\obj\Debug\EkoolMarksCalculator.csprojAssemblyReference.cache
+C:\Users\Danie\source\repos\ekool.marks.counter\ekool.marks.counter\obj\Debug\EkoolMarksCounter.Form1.resources
+C:\Users\Danie\source\repos\ekool.marks.counter\ekool.marks.counter\obj\Debug\EkoolMarksCalculator.Properties.Resources.resources
+C:\Users\Danie\source\repos\ekool.marks.counter\ekool.marks.counter\obj\Debug\EkoolMarksCalculator.csproj.GenerateResource.cache
+C:\Users\Danie\source\repos\ekool.marks.counter\ekool.marks.counter\obj\Debug\EkoolMarksCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Danie\source\repos\ekool.marks.counter\ekool.marks.counter\obj\Debug\EkoolMarksCalculator.csproj.CopyComplete
+C:\Users\Danie\source\repos\ekool.marks.counter\ekool.marks.counter\obj\Debug\EkoolMarksCalculator.exe
+C:\Users\Danie\source\repos\ekool.marks.counter\ekool.marks.counter\obj\Debug\EkoolMarksCalculator.pdb
