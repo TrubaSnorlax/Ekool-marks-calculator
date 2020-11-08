@@ -20,7 +20,7 @@ The first version of a programm!
 ### 1.1.0
 Some functional added
 
--Calculates the amount of five marks to get a five mark in total
+- Calculates the amount of five marks to get a five mark in total
 
 ### 1.1.1
 Some code editing and bug fixes
