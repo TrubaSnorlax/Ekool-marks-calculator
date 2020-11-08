@@ -94,7 +94,8 @@ namespace EkoolMarksCounter
                      marksUntilFiveResultString = marksUntilFive.ToString(); //makes count string
                  }
                  return marksUntilFiveResultString; //returns result
-             }
+             } 
+      
 
 
 
