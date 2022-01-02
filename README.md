@@ -1,3 +1,5 @@
+# Turned this program into a broswer extension -> https://github.com/TrubaSnorlax/EkoolExtended
+
 ## Marks calculator for Ekool.eu
 Calculator for calculating average mark quickly.
 
